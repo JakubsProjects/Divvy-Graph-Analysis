@@ -1,3 +1,3 @@
 # Divvy-Graph-Analysis
 ClassProject
-Read -> "README-project06"
+Read -> "README-project06.pdf"
